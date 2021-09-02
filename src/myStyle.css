@@ -1,0 +1,21 @@
+#root{
+    background-color: #071E3D;
+}
+
+.section{
+    height: auto;
+    
+}
+
+.main-title{
+    color: #00C2CB;
+    text-shadow: 2px 2px 0px #1F4287;
+}
+
+.comedy-jokes{
+    color: rgb(148, 150, 151);
+}
+
+.comedy-jokes-answer{
+    color: #FD9A6A;
+}
